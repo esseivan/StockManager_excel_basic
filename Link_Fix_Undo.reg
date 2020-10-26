@@ -1,0 +1,13 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\14.0\Common\Internet]
+"ForceShellExecute"=-
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\15.0\Common\Internet]
+"ForceShellExecute"=-
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\16.0\Common\Internet]
+"ForceShellExecute"=-
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Office\9.0\Common\Internet]
+"ForceShellExecute"=-
